@@ -1,0 +1,10 @@
+{
+  "name":"Party Location Manager",
+  "short_name":"Party Manager",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f3f6fb",
+  "theme_color":"#2563eb",
+  "description":"নাম, পার্টি কোড, মোবাইল, লোকেশন ও ছবি ব্যবস্থাপনার মোবাইল অ্যাপ"
+}
