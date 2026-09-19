@@ -1,7 +1,7 @@
 Party Location Manager — Mobile Web App
 
 ফিচার:
-- নাম
+- Name
 - পার্টি কোড
 - মোবাইল নাম্বার
 - লোকেশন ও Google Maps লিংক
